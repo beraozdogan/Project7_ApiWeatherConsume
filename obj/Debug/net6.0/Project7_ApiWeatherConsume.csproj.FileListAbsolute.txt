@@ -1,0 +1,17 @@
+C:\Users\ibrah\source\repos\MyPersonal20Projects\Project7_ApiWeatherConsume\bin\Debug\net6.0\Project7_ApiWeatherConsume.exe
+C:\Users\ibrah\source\repos\MyPersonal20Projects\Project7_ApiWeatherConsume\bin\Debug\net6.0\Project7_ApiWeatherConsume.deps.json
+C:\Users\ibrah\source\repos\MyPersonal20Projects\Project7_ApiWeatherConsume\bin\Debug\net6.0\Project7_ApiWeatherConsume.runtimeconfig.json
+C:\Users\ibrah\source\repos\MyPersonal20Projects\Project7_ApiWeatherConsume\bin\Debug\net6.0\Project7_ApiWeatherConsume.dll
+C:\Users\ibrah\source\repos\MyPersonal20Projects\Project7_ApiWeatherConsume\bin\Debug\net6.0\Project7_ApiWeatherConsume.pdb
+C:\Users\ibrah\source\repos\MyPersonal20Projects\Project7_ApiWeatherConsume\obj\Debug\net6.0\Project7_ApiWeatherConsume.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibrah\source\repos\MyPersonal20Projects\Project7_ApiWeatherConsume\obj\Debug\net6.0\Project7_ApiWeatherConsume.AssemblyInfoInputs.cache
+C:\Users\ibrah\source\repos\MyPersonal20Projects\Project7_ApiWeatherConsume\obj\Debug\net6.0\Project7_ApiWeatherConsume.AssemblyInfo.cs
+C:\Users\ibrah\source\repos\MyPersonal20Projects\Project7_ApiWeatherConsume\obj\Debug\net6.0\Project7_ApiWeatherConsume.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\source\repos\MyPersonal20Projects\Project7_ApiWeatherConsume\obj\Debug\net6.0\Project7_ApiWeatherConsume.dll
+C:\Users\ibrah\source\repos\MyPersonal20Projects\Project7_ApiWeatherConsume\obj\Debug\net6.0\refint\Project7_ApiWeatherConsume.dll
+C:\Users\ibrah\source\repos\MyPersonal20Projects\Project7_ApiWeatherConsume\obj\Debug\net6.0\Project7_ApiWeatherConsume.pdb
+C:\Users\ibrah\source\repos\MyPersonal20Projects\Project7_ApiWeatherConsume\obj\Debug\net6.0\Project7_ApiWeatherConsume.genruntimeconfig.cache
+C:\Users\ibrah\source\repos\MyPersonal20Projects\Project7_ApiWeatherConsume\obj\Debug\net6.0\ref\Project7_ApiWeatherConsume.dll
+C:\Users\ibrah\source\repos\MyPersonal20Projects\Project7_ApiWeatherConsume\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\ibrah\source\repos\MyPersonal20Projects\Project7_ApiWeatherConsume\obj\Debug\net6.0\Project7_ApiWeatherConsume.csproj.AssemblyReference.cache
+C:\Users\ibrah\source\repos\MyPersonal20Projects\Project7_ApiWeatherConsume\obj\Debug\net6.0\Project7_ApiWeatherConsume.csproj.CopyComplete
